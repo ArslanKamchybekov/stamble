@@ -2,8 +2,6 @@
 
 Stamble is an MVP application that uses an AI agent system to analyze stock data and provide investment recommendations based on recent news and performance metrics.
 
-![Stamble App](https://via.placeholder.com/1200x600?text=Stamble+App)
-
 ## Features
 
 - Real-time web search for the latest company news using OpenAI Agents SDK
